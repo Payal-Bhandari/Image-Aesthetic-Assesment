@@ -8,6 +8,7 @@ DATASET
 Most of the research linked to this topic, evaluates their respective models particularly on individual collections of data that are difficult to access. To contribute towards the research fraternity, an expandable, usable and openly available dataset is constructed. Using various heterogeneous sources like Kaggle, Google, Pinterest, Shutterstock, Unsplash, etc, over 6000 images are gathered based on the three high- level attributes. In each of the above categories, there are 2000 images, The train to test ratio
 used here is 70:30, which prevents overfitting of the model as well as provides better accuracy. For preprocessing, the images of image aesthetic dataset (IAD) were converted to
 grayscale, resized to 128*128 and the dataset was standardized by scaling.
+Publicly Available dataset link: https://drive.google.com/file/d/1bFqEtkcw0Zi_ft05EyNGT_O_J180KVuo/view?usp=sharing
 
 APPROACH
 Previously various models have been developed based on the handcrafted method of image classification. To increase the accuracy and efficiency, a Deep Neural Network is proposed
