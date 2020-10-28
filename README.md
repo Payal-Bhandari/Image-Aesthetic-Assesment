@@ -18,6 +18,8 @@ as given below.
 2) Deep Convolutional Neural Network: The DCNN is im-plemented which uses the various rules of photography to assess the image aesthetics.
 3) Classifier: Classifies the images into Appealing and Not Appealing.
 
+![Architecture2](https://user-images.githubusercontent.com/51235238/97408381-fe89f000-1921-11eb-8982-bb1e7a8f075a.JPG)
+
 
 
 The Research Work for the above topic can be referred on following link:
